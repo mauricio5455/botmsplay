@@ -25,12 +25,12 @@ Com as dependências instaladas, basta clonar o projeto, navegar até a sua past
 - Clonar projeto
 
 ```bash
- git clone https://github.com/mauricio5455/msplaybot.git
+ git clone https://github.com/mauricio5455/botmsplay.git
 ```
 
 - Iniciar aplicação
 ```bash
-cd msplaybot
+cd botmsplay
 npm i
 npm start
 ```
